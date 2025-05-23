@@ -1,5 +1,5 @@
 " set Colourshcmee
-colorscheme github
+colorscheme molokai
 
 " use the dark theme
 set background=dark
@@ -89,7 +89,7 @@ let g:netrw_localcopydircmd = 'cp -r'
 
 nnoremap <leader>dd :Lexplore %:p:h<CR>
 nnoremap <Leader>da :Lexplore<CR>
-source ~/.vimrc 
+
 " }}}
 
 " PLUGINS ---------------------------------------------------------------- {{{
